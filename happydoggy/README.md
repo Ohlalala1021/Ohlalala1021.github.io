@@ -3,7 +3,7 @@ home: true
 layout: Blog
 icon: home
 title: 博客主页
-heroImage: /logo.svg
+heroImage: /lulala.jpeg
 heroText: 可爱的羊巴鲁
 heroFullScreen: true
 bgImage: /yeh.jpg
