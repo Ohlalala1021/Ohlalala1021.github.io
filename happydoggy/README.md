@@ -6,7 +6,7 @@ title: 博客主页
 heroImage: /logo.svg
 heroText: 可爱的羊巴鲁
 heroFullScreen: true
-bgImage: /la.jpeg
+bgImage: /yeh.jpg
 tagline: oh la la la la la la la la la la la la la la
 projects:
   - icon: project
