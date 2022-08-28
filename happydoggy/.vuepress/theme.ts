@@ -33,7 +33,7 @@ export default hopeTheme({
   blog: {
     name: "Mr.爱宠人",
     description: "hi,大家好！我是个狗狗爱好者，平时喜欢看书和看电影，也喜欢羽毛球；最讨厌有人在公共场合大声“狗叫”。",
-    intro: "/intro.html",
+    intro: "/aboutme.md",
     medias: {
       Baidu: "https://example.com",
       Dingding: "https://example.com",
