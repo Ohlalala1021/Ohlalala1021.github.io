@@ -2,7 +2,7 @@
 home: true
 layout: Blog
 icon: home
-title: 博客主页
+title: lalalala
 heroImage: /lulala.jpeg
 heroText: 可爱的羊巴鲁
 heroFullScreen: true
