@@ -1,5 +1,5 @@
 export const pagesRoutes = [
-  ["v-8daa1a0e","/",{"title":"lalalala","icon":"home","type":"home","readingTime":{"minutes":0.78,"words":234},"excerpt":"这是一个博客主页的案例。 要使用此布局，你应该在页面前端设置 layout: Blog 和 home: true。 相关配置文档请见 博客主页。"},["/index.html","/README.md"]],
+  ["v-8daa1a0e","/",{"title":"lalalala","icon":"home","type":"home","readingTime":{"minutes":0.17,"words":52},"excerpt":""},["/index.html","/README.md"]],
   ["v-03de6b8d","/aboutme.html",{"title":"关于我……(^_^)","icon":"home","type":"home","readingTime":{"minutes":0.58,"words":173},"excerpt":"乘着飞机， 乘着满满的期待， 起飞。 在云之路上穿行， 雪白的小羊，歌唱。 是向往的旋律， 轻盈而悠扬。 是谁，撒下了霞光？ 星星点点的， 落在了棉花糖上。 降落。 回望祖国山河壮美， 城市高楼林立， 而我的路，始于足下。 踏着石子， 踏着坚实的脚步，进发。 在布满荆棘的路上前行。 凹凸的石子，欢笑， 是鼓励的掌声， 沉稳而坚实。 是谁，磨平了棱角，磨出了心"},["/aboutme","/aboutme.md"]],
   ["v-79fdd481","/home.html",{"title":"项目主页","icon":"home","type":"home","readingTime":{"minutes":2.61,"words":782},"excerpt":"这是项目主页的案例。你可以在这里放置你的主体内容。 想要使用此布局，你需要在页面 front matter 中设置 home: true。 配置项的相关说明详见 项目主页配置。"},["/home","/home.md"]],
   ["v-0e503981","/slide.html",{"title":"幻灯片页","icon":"slides","type":"slide","readingTime":{"minutes":4.51,"words":1352},"excerpt":"@slidestart 幻灯片演示 一个简单的幻灯片演示与各种小贴士。 \" 作者 Mr.Hope. 请滚动鼠标滚轮进入下一页\" --- 标注幻灯片 👇 -- 标注幻灯片 使用 --- 标注水平幻灯片 在水平幻灯片中使用 -- 分割垂直幻灯片 使用 `` 在幻灯片上添加属性 使用 `` 在前一个 HTML 元素上添加属性 --- Markdown 你可以在幻"},["/slide","/slide.md"]],

@@ -1,4 +1,4 @@
-export const typeMap = {"article":{"/":{"path":"/article/","keys":["v-03de6b8d","v-0e503981"]}},"encrypted":{"/":{"path":"/encrypted/","keys":[]}},"slide":{"/":{"path":"/slide/","keys":["v-0e503981"]}},"star":{"/":{"path":"/star/","keys":[]}},"timeline":{"/":{"path":"/timeline/","keys":[]}}}
+export const typeMap = {"article":{"/":{"path":"/article/","keys":["v-0e503981"]}},"encrypted":{"/":{"path":"/encrypted/","keys":[]}},"slide":{"/":{"path":"/slide/","keys":["v-0e503981"]}},"star":{"/":{"path":"/star/","keys":[]}},"timeline":{"/":{"path":"/timeline/","keys":[]}}}
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()
