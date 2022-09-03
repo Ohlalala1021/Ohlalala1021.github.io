@@ -8,7 +8,6 @@ category:
 tag:
     - 论文1
 icon: blog
-​------
 ---
 
 论朝代兴衰与民信之关系
