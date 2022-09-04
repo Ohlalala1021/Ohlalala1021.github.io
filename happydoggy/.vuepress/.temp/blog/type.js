@@ -1,4 +1,4 @@
-export const typeMap = {"article":{"/":{"path":"/article/","keys":["v-0014b6d1","v-2aef503c","v-29cfdf5c","v-315fef65","v-084b679e","v-61ed2ca1","v-acfca3c6","v-09810bfc","v-151da8c2","v-11b3f784"]}},"encrypted":{"/":{"path":"/encrypted/","keys":[]}},"slide":{"/":{"path":"/slide/","keys":[]}},"star":{"/":{"path":"/star/","keys":[]}},"timeline":{"/":{"path":"/timeline/","keys":["v-0014b6d1","v-2aef503c","v-29cfdf5c","v-315fef65","v-084b679e","v-61ed2ca1","v-acfca3c6","v-09810bfc","v-151da8c2","v-11b3f784"]}}}
+export const typeMap = {"article":{"/":{"path":"/article/","keys":["v-2aef503c","v-0014b6d1","v-29cfdf5c","v-135ba9df","v-acfca3c6","v-315fef65","v-09810bfc","v-084b679e","v-61ed2ca1","v-151da8c2","v-11b3f784"]}},"encrypted":{"/":{"path":"/encrypted/","keys":[]}},"slide":{"/":{"path":"/slide/","keys":[]}},"star":{"/":{"path":"/star/","keys":[]}},"timeline":{"/":{"path":"/timeline/","keys":["v-2aef503c","v-0014b6d1","v-29cfdf5c","v-135ba9df","v-acfca3c6","v-315fef65","v-09810bfc","v-084b679e","v-61ed2ca1","v-151da8c2","v-11b3f784"]}}}
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()

@@ -56,7 +56,7 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/小随笔/":"111021"
+      "/小随笔/":"111021","/小笔记/":"111021"
     },
   },
 
