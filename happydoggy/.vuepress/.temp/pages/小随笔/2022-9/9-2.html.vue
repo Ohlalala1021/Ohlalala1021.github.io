@@ -1,1 +1,2 @@
-<template><div></div></template>
+<template><div><p>This week is the first week of the semester .Over all,it's a great week, because of 3 things : Firstly , teacher Zhu invited me to be a little couch of badminton , I am very happy and proud of my self ; secondly , I'd think  my dogebee-skills improve , I can easlly catch Abel's ball , and sometime Jack Lin's ball ; lastly , I had a rain ball , and I think I'm very handsome.</p>
+</div></template>
