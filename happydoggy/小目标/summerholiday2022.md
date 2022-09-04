@@ -1,13 +1,16 @@
 ---
-title:2022年暑期目标
-date: 2022-09-02 20:24:07
+title:lalalalalalalala
+date: 2022-09-02 20:25:27
 author: Mr.11.爱宠人
 isOriginal: true
 category:
     - 小目标
 tag:
-    - 假期目标
+    - 目标1
 icon: blog
+---
+
+
 
 1、小楷书法 
 MUST：练习态度端正，不厌其烦，笔画练习效果横平竖直，和目前硬笔笔画同样标准（四级）

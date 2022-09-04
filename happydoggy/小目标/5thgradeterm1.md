@@ -10,8 +10,8 @@ tag:
 icon: blog
 ---
 
-![image-20220902210257375](5thgradeterm1.assets/image-20220902210257375.png)
+![image-20220902210257375](./5thgradeterm1.assets/image-20220902210257375.png)
 
-![image-20220902210342133](5thgradeterm1.assets/image-20220902210342133.png)
+![image-20220902210342133](./5thgradeterm1.assets/image-20220902210342133.png)
 
-![image-20220902210407957](5thgradeterm1.assets/image-20220902210407957.png)
+![image-20220902210407957](./5thgradeterm1.assets/image-20220902210407957.png)
