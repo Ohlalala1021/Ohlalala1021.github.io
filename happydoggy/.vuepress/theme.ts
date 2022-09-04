@@ -3,10 +3,10 @@ import navbar from "./navbar";
 import sidebar from "./sidebar";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-v2-demo.mrhope.site",
+  hostname: "https://www.thomasxiao.com/",
 
   author: {
-    name: "Mr.Hope",
+    name: "Mr.11.爱宠人",
     url: "https://mrhope.site",
   },
 
@@ -14,7 +14,7 @@ export default hopeTheme({
 
   logo: "/logo.jpeg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "Ohlalala1021/Ohlalala1021.github.io",
 
   docsDir: "demo/src",
 
