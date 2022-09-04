@@ -1,5 +1,5 @@
 ---
-title:那片美丽的风景
+title: 那片美丽的风景
 date: 2022-09-02 20:24:46
 author: Mr.11.爱宠人
 isOriginal: true

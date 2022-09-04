@@ -1,5 +1,5 @@
 ---
-title:卜算子·咏春
+title: 卜算子·咏春
 date: 2022-09-02 20:25:27
 author: Mr.11.爱宠人
 isOriginal: true
