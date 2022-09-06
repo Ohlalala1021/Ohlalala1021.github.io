@@ -10,7 +10,7 @@ tag:
 icon: blog
 ---
 
-./![image-20220906185912042](thatmomentivegrown.assets/image-20220906185912042.png)
+![image-20220906185912042](./thatmomentivegrown.assets/image-20220906185912042.png)
 
 
 

@@ -10,7 +10,7 @@ tag:
 icon: blog
 ---
 
-./![image-20220906191636708](thatbuttifulplace.assets/image-20220906191636708.png)
+![image-20220906191636708](./thatbuttifulplace.assets/image-20220906191636708.png)
 
 那片美丽的风景-重庆
 2022.7.26

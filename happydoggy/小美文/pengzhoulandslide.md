@@ -10,9 +10,9 @@ tag:
 icon: blog
 ---
 
-./
 
-![image-20220906190216483](pengzhoulandslide.assets/image-20220906190216483.png)
+
+![image-20220906190216483](./pengzhoulandslide.assets/image-20220906190216483.png)
 
 
 

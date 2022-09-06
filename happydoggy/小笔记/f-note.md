@@ -10,7 +10,7 @@ tag:
 icon: blog
 ---
 
-./![image-20220906191323249](f-note.assets/image-20220906191323249.png)
+![image-20220906191323249](./f-note.assets/image-20220906191323249.png)
 
 
 

@@ -10,7 +10,7 @@ tag:
 icon: blog
 ---
 
-./![image-20220906191436861](thedynastyandtrustofthepeople.assets/image-20220906191436861.png)
+![image-20220906191436861](./thedynastyandtrustofthepeople.assets/image-20220906191436861.png)
 
 
 

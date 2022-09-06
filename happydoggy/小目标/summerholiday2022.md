@@ -12,7 +12,7 @@ icon: blog
 
 
 
-./<img src="summerholiday2022.assets/image-20220906191849001.png" alt="image-20220906191849001" style="zoom:50%;" />
+
 
 1、小楷书法 
 MUST：练习态度端正，不厌其烦，笔画练习效果横平竖直，和目前硬笔笔画同样标准（四级）
