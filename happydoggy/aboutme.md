@@ -7,6 +7,12 @@ heroText: 关于Mr.16.爱宠人
 tagline: lalalalalalalala
 ---
 
+./![image-20220906191939287](aboutme.assets/image-20220906191939287.png)
+
+路
+
+
+
 乘着飞机，
 乘着满满的期待，
 起飞。

@@ -10,6 +10,8 @@ tag:
 icon: blog
 ---
 
+./![image-20220906191436861](thedynastyandtrustofthepeople.assets/image-20220906191436861.png)
+
 
 
 论朝代兴衰与民信之关系
