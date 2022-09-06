@@ -6,7 +6,7 @@ isOriginal: true
 category:
     - 小目标
 tag:
-    - 目标1
+    - 目标
 icon: blog
 ---
 

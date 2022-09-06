@@ -6,7 +6,7 @@ isOriginal: true
 category:
     - 小导图
 tag:
-    - 导图1
+    - 导图
 icon: blog
 ---
 

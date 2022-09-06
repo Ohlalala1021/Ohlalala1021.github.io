@@ -6,7 +6,7 @@ isOriginal: true
 category:
     - 小论文
 tag:
-    - 论文1
+    - 论文
 icon: blog
 ---
 

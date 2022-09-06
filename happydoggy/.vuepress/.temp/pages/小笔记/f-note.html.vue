@@ -1,4 +1,5 @@
-<template><div><p>一 、基础逻辑&amp;快捷键
+<template><div><p>./<img src="f-note.assets/image-20220906191323249.png" alt="image-20220906191323249"></p>
+<p>一 、基础逻辑&amp;快捷键
 1.变量=变化的量（存东西-程序）</p>
 <p>2.运行顺序：从上往下</p>
 <p>3.command+option+L=代码美化</p>

@@ -1,4 +1,6 @@
-<template><div><p>乘着飞机，
+<template><div><p>./<img src="aboutme.assets/image-20220906191939287.png" alt="image-20220906191939287"></p>
+<p>路</p>
+<p>乘着飞机，
 乘着满满的期待，
 起飞。
 在云之路上穿行，

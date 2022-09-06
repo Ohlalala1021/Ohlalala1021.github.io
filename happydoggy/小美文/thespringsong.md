@@ -6,7 +6,7 @@ isOriginal: true
 category:
     - 小美文
 tag:
-    - 美文2
+    - 美文
 icon: blog
 ---
 
