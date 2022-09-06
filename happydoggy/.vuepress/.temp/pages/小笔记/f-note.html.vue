@@ -1,4 +1,4 @@
-<template><div><p>./<img src="f-note.assets/image-20220906191323249.png" alt="image-20220906191323249"></p>
+<template><div><p><img src="@source/小笔记/f-note.assets/image-20220906191323249.png" alt="image-20220906191323249"></p>
 <p>一 、基础逻辑&amp;快捷键
 1.变量=变化的量（存东西-程序）</p>
 <p>2.运行顺序：从上往下</p>
