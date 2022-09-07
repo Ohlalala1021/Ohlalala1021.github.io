@@ -56,7 +56,8 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/小随笔/":"111021","/小笔记/":"111021"
+      [encodeURI("/小随笔/")]:"111021",
+      [encodeURI("/小笔记/")]:"111021",
     },
   },
 
@@ -70,7 +71,7 @@ export default hopeTheme({
     // 为了避免打扰主题开发者以及消耗他的资源，请不要在你的正式环境中直接使用下列配置!!!!!
     comment: {
       /**
-       * Using Giscus
+       * Using Giscuss
        */
       provider: "Giscus",
       repo: "vuepress-theme-hope/giscus-discussions",
