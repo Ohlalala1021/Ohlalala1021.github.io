@@ -1,11 +1,11 @@
 import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
-  "/",
+  "使命必达",
   "/home",
-  { text: "使用指南", icon: "creative", link: "/guide/" },
+  { text: "书写美好", icon: "creative", link: "/guide/" },
   {
-    text: "博文",
+    text: "学而时习之",
     icon: "edit",
     prefix: "/posts/",
     children: [
@@ -45,7 +45,7 @@ export default navbar([
     ],
   },
   {
-    text: "主题文档",
+    text: "随心而配",
     icon: "note",
     link: "https://vuepress-theme-hope.github.io/v2/zh/",
   },
