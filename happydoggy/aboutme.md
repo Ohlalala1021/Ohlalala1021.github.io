@@ -3,7 +3,7 @@ home: true
 icon: home
 title: 关于我……(^_^)
 heroImage: /aboutme.webp
-heroText: 关于Mr.16.爱宠人
+heroText: 关于Mr.爱宠人
 tagline: lalalalalalalala
 ---
 
