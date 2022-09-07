@@ -4,8 +4,12 @@ export default navbar([
  {text: "使命必达",link:"/小目标/5thgradeterm1"},
  
   { text: "书写美好", icon: "creative", link: "/小美文/cookiemydog" },
-  {
-    text: "学而时习之",
+  { text: "书写美好", icon: "creative", link: "/小美文/hilllaoheshan" },
+  { text: "书写美好", icon: "creative", link: "/小美文/pengzhoulandslide" },
+  { text: "书写美好", icon: "creative", link: "/小美文/thatbuttifulplace" },
+  { text: "书写美好", icon: "creative", link: "/小美文/thespringsong" },
+
+    {text: "学而时习之",
     icon: "edit",
     prefix: "/posts/",
     children: [
@@ -14,10 +18,8 @@ export default navbar([
         icon: "edit",
         prefix: "article/",
         children: [
-          { text: "文章 1", icon: "edit", link: "thedynastyandtrustofthepeople" },
-          { text: "文章 2", icon: "edit", link: "article2" },
-          "article3",
-          "article4",
+          { text: "学而时习之", icon: "edit", link: "/小导图/thedynastyandtrustofthepeople"},
+        
         ],
       },
       {
