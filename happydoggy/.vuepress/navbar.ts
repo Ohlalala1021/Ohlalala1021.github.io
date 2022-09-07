@@ -1,20 +1,21 @@
 import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
-  "使命必达",
-  "/home",
-  { text: "书写美好", icon: "creative", link: "/guide/" },
+ {text: "使命必达",link:"/小目标/5thgradeterm1"},
+ 
+ "/home",
+  { text: "书写美好", icon: "creative", link: "/cookiemydog/" },
   {
     text: "学而时习之",
     icon: "edit",
     prefix: "/posts/",
     children: [
       {
-        text: "文章 1-4",
+        text: "lala",
         icon: "edit",
         prefix: "article/",
         children: [
-          { text: "文章 1", icon: "edit", link: "article1" },
+          { text: "文章 1", icon: "edit", link: "thedynastyandtrustofthepeople" },
           { text: "文章 2", icon: "edit", link: "article2" },
           "article3",
           "article4",
