@@ -7,7 +7,7 @@ heroText: 关于Mr.16.爱宠人
 tagline: lalalalalalalala
 ---
 
-./![image-20220906191939287](aboutme.assets/image-20220906191939287.png)
+![image-20220906191939287](./aboutme.assets/image-20220906191939287.png)
 
 路
 

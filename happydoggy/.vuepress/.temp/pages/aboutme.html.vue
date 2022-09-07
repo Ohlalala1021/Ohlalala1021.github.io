@@ -1,4 +1,4 @@
-<template><div><p>./<img src="aboutme.assets/image-20220906191939287.png" alt="image-20220906191939287"></p>
+<template><div><p><img src="@source/aboutme.assets/image-20220906191939287.png" alt="image-20220906191939287"></p>
 <p>路</p>
 <p>乘着飞机，
 乘着满满的期待，
