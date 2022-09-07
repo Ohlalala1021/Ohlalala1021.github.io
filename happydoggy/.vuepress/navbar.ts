@@ -45,7 +45,7 @@ export default navbar([
     ],
   },
   {
-    text: "随心而配",
+    text: "随心而记",
     icon: "note",
     link: "https://vuepress-theme-hope.github.io/v2/zh/",
   },
