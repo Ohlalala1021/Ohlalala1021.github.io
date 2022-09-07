@@ -3,7 +3,7 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
  {text: "使命必达",link:"/小目标/5thgradeterm1"},
  
-  { text: "书写美好", icon: "creative", link: "/小美文/" },
+  { text: "书写美好", icon: "creative", link: "/小美文/cookiemydog" },
   {
     text: "学而时习之",
     icon: "edit",
