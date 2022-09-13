@@ -70,6 +70,7 @@ export default navbar([
 },
 {
   text: "随心而记",
+  icon: "autumn",
   children: [
     {
       text:"随心而记",
