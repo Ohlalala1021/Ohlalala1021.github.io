@@ -75,12 +75,12 @@ export default navbar([
     {
       text:"随心而记",
       children: [
-        { text: "新同学", icon: "autumn", link: "/小随笔/8-31"},
-        { text: "小助教", icon: "autumn", link: "/小随笔/9-1"},
-        { text: "Afriendyday", icon: "autumn", link: "/小随笔/9-2"},
-        { text: "傅国涌见面会", icon: "autumn", link: "/小随笔/9-6"},
-        { text: "朋友日", icon: "autumn", link: "/小随笔/9-9"},
-        { text: "Happymoonfestival", icon: "autumn", link: "/小随笔/9-11"},
+        { text: "新同学", icon: "autumn", link: "/小随笔/2022-8/8-31"},
+        { text: "小助教", icon: "autumn", link: "/小随笔/2022-9/9-1"},
+        { text: "Afriendyday", icon: "autumn", link: "/小随笔/2022-9/9-2"},
+        { text: "傅国涌见面会", icon: "autumn", link: "/小随笔/2022-9/9-6"},
+        { text: "朋友日", icon: "autumn", link: "/小随笔/2022-9/9-9"},
+        { text: "Happymoonfestival", icon: "autumn", link: "/小随笔/2022-9/9-11"},
       ],
     }
   ],
