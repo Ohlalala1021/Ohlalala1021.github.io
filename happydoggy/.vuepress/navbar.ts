@@ -1,8 +1,8 @@
 import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
- { text: "使命必达",link:"/小目标/5thgradeterm1" },
- { text: "学而时习之",icon: "edit", link: "/小导图/thedynastyandtrustofthepeople"},
+ { text: "使命必达",icon:"strong",link:"/小目标/5thgradeterm1" },
+ { text: "学而时习之",icon: "write", link: "/小导图/thedynastyandtrustofthepeople"},
  {
   text: "书写美好",
   icon: "alias",
