@@ -1,14 +1,11 @@
 import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
-"/",
-"/home",
  { text: "使命必达",link:"/小目标/5thgradeterm1" },
- { text: "书写美好", icon: "creative", link: "/小美文/cookiemydog"},
  { text: "学而时习之",icon: "edit", link: "/小导图/thedynastyandtrustofthepeople"},
  {
   text: "书写美好",
-  icon: "edit",
+  icon: "alias",
   children: [
     {
       text:"书写美好",
@@ -19,8 +16,8 @@ export default navbar([
         { text: "那片美丽的风景", icon: "edit", link: "/小美文/thatbuttifulplace"},
         { text: "那一刻我长大了", icon: "edit", link: "/小美文/thatmomentivegrown"},
         { text: "卜算子咏春",icon: "edit", link: "/小美文/thespringsong"},
-    ],
+      ],
     }
-        ],
-  },
+  ],
+},
 ])
