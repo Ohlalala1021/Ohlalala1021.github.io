@@ -21,7 +21,7 @@ export default navbar([
     {
       text:"书山有路勤为径",
       children: [
-        { text: "朝代兴衰与民信", icon: "any", link: "//小导图/thedynastyandtrustofthepeople"},
+        { text: "朝代兴衰与民信", icon: "any", link: "/小导图/thedynastyandtrustofthepeople"},
       ],
     }
   ],
