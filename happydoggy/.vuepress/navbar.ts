@@ -81,6 +81,7 @@ export default navbar([
         { text: "傅国涌见面会", icon: "autumn", link: "/小随笔/2022-9/9-6"},
         { text: "朋友日", icon: "autumn", link: "/小随笔/2022-9/9-9"},
         { text: "Happymoonfestival", icon: "autumn", link: "/小随笔/2022-9/9-11"},
+        { text: "M78星云", icon: "autumn", link: "/小随笔/2022-9/9-14"},
       ],
     }
   ],
