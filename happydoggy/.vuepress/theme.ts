@@ -56,8 +56,8 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      [encodeURI("/小随笔/")]:"111021",
-      [encodeURI("/小笔记/")]:"111021",
+      [encodeURI("/小随笔/")]:"060721",
+      [encodeURI("/小笔记/")]:"060721",
     },
   },
 
