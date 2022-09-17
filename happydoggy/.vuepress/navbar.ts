@@ -82,6 +82,7 @@ export default navbar([
         { text: "朋友日", icon: "autumn", link: "/小随笔/2022-9/9-9"},
         { text: "Happymoonfestival", icon: "autumn", link: "/小随笔/2022-9/9-11"},
         { text: "M78星云", icon: "autumn", link: "/小随笔/2022-9/9-14"},
+        { text: "happy weeky", icon: "autumn", link: "/小随笔/2022-9/English2"},
       ],
     }
   ],
