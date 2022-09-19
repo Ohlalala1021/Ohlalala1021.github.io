@@ -84,6 +84,7 @@ export default navbar([
         { text: "M78星云", icon: "autumn", link: "/小随笔/2022-9/9-14"},
         { text: "happy weeky", icon: "autumn", link: "/小随笔/2022-9/English2"},
         { text: "开心野营一百年", icon: "autumn", link: "/小随笔/2022-9/9-18"},
+        { text: "她伤心了，不与我言语", icon: "autumn", link: "/小随笔/2022-9/9-19"},
       ],
     }
   ],
