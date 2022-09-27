@@ -5,6 +5,8 @@ export const pagesData = {
   "v-03de6b8d": () => import(/* webpackChunkName: "v-03de6b8d" */"/Users/thomas/happydoggy/Ohlalala1021.github.io/happydoggy/.vuepress/.temp/pages/aboutme.html.js").then(({ data }) => data),
   // path: /%E5%B0%8F%E7%AC%94%E8%AE%B0/f-note.html
   "v-135ba9df": () => import(/* webpackChunkName: "v-135ba9df" */"/Users/thomas/happydoggy/Ohlalala1021.github.io/happydoggy/.vuepress/.temp/pages/小笔记/f-note.html.js").then(({ data }) => data),
+  // path: /%E5%B0%8F%E7%BE%8E%E6%96%87/allaboutwhitebird.html
+  "v-c5b98f82": () => import(/* webpackChunkName: "v-c5b98f82" */"/Users/thomas/happydoggy/Ohlalala1021.github.io/happydoggy/.vuepress/.temp/pages/小美文/allaboutwhitebird.html.js").then(({ data }) => data),
   // path: /%E5%B0%8F%E7%BE%8E%E6%96%87/cookiemydog.html
   "v-44a42a29": () => import(/* webpackChunkName: "v-44a42a29" */"/Users/thomas/happydoggy/Ohlalala1021.github.io/happydoggy/.vuepress/.temp/pages/小美文/cookiemydog.html.js").then(({ data }) => data),
   // path: /%E5%B0%8F%E7%BE%8E%E6%96%87/hilllaoheshan.html
@@ -41,6 +43,8 @@ export const pagesData = {
   "v-6f7a2b8c": () => import(/* webpackChunkName: "v-6f7a2b8c" */"/Users/thomas/happydoggy/Ohlalala1021.github.io/happydoggy/.vuepress/.temp/pages/小随笔/2022-9/9-19.html.js").then(({ data }) => data),
   // path: /%E5%B0%8F%E9%9A%8F%E7%AC%94/2022-9/9-2.html
   "v-11b3f784": () => import(/* webpackChunkName: "v-11b3f784" */"/Users/thomas/happydoggy/Ohlalala1021.github.io/happydoggy/.vuepress/.temp/pages/小随笔/2022-9/9-2.html.js").then(({ data }) => data),
+  // path: /%E5%B0%8F%E9%9A%8F%E7%AC%94/2022-9/9-24.html
+  "v-16be2b40": () => import(/* webpackChunkName: "v-16be2b40" */"/Users/thomas/happydoggy/Ohlalala1021.github.io/happydoggy/.vuepress/.temp/pages/小随笔/2022-9/9-24.html.js").then(({ data }) => data),
   // path: /%E5%B0%8F%E9%9A%8F%E7%AC%94/2022-9/9-6.html
   "v-040d328c": () => import(/* webpackChunkName: "v-040d328c" */"/Users/thomas/happydoggy/Ohlalala1021.github.io/happydoggy/.vuepress/.temp/pages/小随笔/2022-9/9-6.html.js").then(({ data }) => data),
   // path: /%E5%B0%8F%E9%9A%8F%E7%AC%94/2022-9/9-7.html

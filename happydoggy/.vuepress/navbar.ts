@@ -52,6 +52,7 @@ export default navbar([
         { text: "那片美丽的风景", icon: "edit", link: "/小美文/thatbuttifulplace"},
         { text: "那一刻我长大了", icon: "edit", link: "/小美文/thatmomentivegrown"},
         { text: "卜算子咏春",icon: "edit", link: "/小美文/thespringsong"},
+        { text: "白鹭说明文",icon: "edit", link: "/小美文/allaboutwhitebird"},
       ],
     }
   ],
@@ -85,6 +86,7 @@ export default navbar([
         { text: "happy weeky", icon: "autumn", link: "/小随笔/2022-9/English2"},
         { text: "开心野营一百年", icon: "autumn", link: "/小随笔/2022-9/9-18"},
         { text: "她伤心了，不与我言语", icon: "autumn", link: "/小随笔/2022-9/9-19"},
+        { text: "sportyweek", icon: "autumn", link: "/小随笔/2022-9/9-24"},
       ],
     }
   ],
