@@ -10,7 +10,9 @@ export default hopeTheme({
     url: "https://www.thomasxiao.com",
   },
 
-  iconAssets: "//at.alicdn.com/t/c/font_3676226_okygp7ghiol.css",
+  // iconPrefix: "iconfont icon-",
+
+  iconAssets: "iconfont",
 
   logo: "/logo.jpeg",
 

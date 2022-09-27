@@ -7,7 +7,7 @@ category:
     - 小美文
 tag:
     - 美文
-icon: boom1
+icon: blog
 ---
 
 
