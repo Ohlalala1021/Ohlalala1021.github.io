@@ -7,10 +7,10 @@ export default hopeTheme({
 
   author: {
     name: "Mr.11.爱宠人",
-    url: "https://mrhope.site",
+    url: "https://www.thomasxiao.com",
   },
 
-  iconAssets: "iconfont",
+  iconAssets: "//at.alicdn.com/t/c/font_3676226_okygp7ghiol.css",
 
   logo: "/logo.jpeg",
 
