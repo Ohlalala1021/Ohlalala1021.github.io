@@ -21,6 +21,34 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "论朝代兴衰与民信之关系",
+    "headers": [],
+    "path": "/%E5%B0%8F%E5%AF%BC%E5%9B%BE/thedynastyandtrustofthepeople.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "论朝代兴衰与民信之关系",
+    "headers": [],
+    "path": "/%E5%B0%8F%E8%AE%BA%E6%96%87/thedynastyandtrustofthepeople.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "五上学科目标",
+    "headers": [],
+    "path": "/%E5%B0%8F%E7%9B%AE%E6%A0%87/5thgradeterm1.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "2022暑期小目标",
+    "headers": [],
+    "path": "/%E5%B0%8F%E7%9B%AE%E6%A0%87/summerholiday2022.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "白鹭",
     "headers": [],
     "path": "/%E5%B0%8F%E7%BE%8E%E6%96%87/allaboutwhitebird.html",
@@ -66,34 +94,6 @@ export const searchIndex = [
     "title": "卜算子·咏春",
     "headers": [],
     "path": "/%E5%B0%8F%E7%BE%8E%E6%96%87/thespringsong.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "论朝代兴衰与民信之关系",
-    "headers": [],
-    "path": "/%E5%B0%8F%E5%AF%BC%E5%9B%BE/thedynastyandtrustofthepeople.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "论朝代兴衰与民信之关系",
-    "headers": [],
-    "path": "/%E5%B0%8F%E8%AE%BA%E6%96%87/thedynastyandtrustofthepeople.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "五上学科目标",
-    "headers": [],
-    "path": "/%E5%B0%8F%E7%9B%AE%E6%A0%87/5thgradeterm1.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "2022暑期小目标",
-    "headers": [],
-    "path": "/%E5%B0%8F%E7%9B%AE%E6%A0%87/summerholiday2022.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -259,20 +259,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "小美文 分类",
-    "headers": [],
-    "path": "/category/%E5%B0%8F%E7%BE%8E%E6%96%87/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "美文 标签",
-    "headers": [],
-    "path": "/tag/%E7%BE%8E%E6%96%87/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "小导图 分类",
     "headers": [],
     "path": "/category/%E5%B0%8F%E5%AF%BC%E5%9B%BE/",
@@ -311,6 +297,20 @@ export const searchIndex = [
     "title": "目标 标签",
     "headers": [],
     "path": "/tag/%E7%9B%AE%E6%A0%87/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "小美文 分类",
+    "headers": [],
+    "path": "/category/%E5%B0%8F%E7%BE%8E%E6%96%87/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "美文 标签",
+    "headers": [],
+    "path": "/tag/%E7%BE%8E%E6%96%87/",
     "pathLocale": "/",
     "extraFields": []
   },

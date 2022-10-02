@@ -87,6 +87,7 @@ export default navbar([
         { text: "开心野营一百年", icon: "autumn", link: "/小随笔/2022-9/9-18"},
         { text: "她伤心了，不与我言语", icon: "autumn", link: "/小随笔/2022-9/9-19"},
         { text: "sportyweek", icon: "autumn", link: "/小随笔/2022-9/9-24"},
+        { text: "泥巴节", icon: "autumn", link: "/小随笔/2022-10/10-2"},
       ],
     }
   ],
