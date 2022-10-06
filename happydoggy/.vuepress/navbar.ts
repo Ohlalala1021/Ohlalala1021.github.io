@@ -89,6 +89,7 @@ export default navbar([
         { text: "sportyweek", icon: "autumn", link: "/小随笔/2022-9/9-24"},
         { text: "泥巴节", icon: "autumn", link: "/小随笔/2022-10/10-2"},
         { text: "收获满满", icon: "autumn", link: "/小随笔/2022-10/10-3"},
+        { text: "Nationalholidayfun", icon: "autumn", link: "/小随笔/2022-10/10-6"},
       ],
     }
   ],
