@@ -72,20 +72,7 @@ export default hopeTheme({
     // 以下配置仅供体验，如果你需要评论，请自行配置并使用自己的环境，详见文档。
     // 为了避免打扰主题开发者以及消耗他的资源，请不要在你的正式环境中直接使用下列配置!!!!!
     comment: {
-      /**
-       * Using Giscuss
-       */
-
-
-      /**
-       * Using Twikoo
-       */
-      // provider: "Twikoo",
-      // envId: "https://twikoo.ccknbc.vercel.app",
-
-      /**
-       * Using Waline
-       */
+      reaction: true,
       provider: "Waline",
       serverURL: "https://comments.thomasxiao.com/",
     },
