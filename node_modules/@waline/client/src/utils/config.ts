@@ -1,6 +1,7 @@
 import {
   defaultLang,
   defaultLocales,
+  defaultReaction,
   defaultUploadImage,
   defaultHighlighter,
   defaultTexRenderer,
@@ -22,10 +23,11 @@ export interface WalineEmojiConfig {
   map: WalineEmojiMaps;
 }
 
-export interface WalineConfig extends Required<Omit<WalineProps, 'wordLimit'>> {
+export interface WalineConfig
+  extends Required<Omit<WalineProps, 'wordLimit' | 'reaction'>> {
   locale: WalineLocale;
   wordLimit: [number, number] | false;
-  // emoji: Promise<EmojiConfig>;
+  reaction: string[];
 }
 
 export const getServerURL = (serverURL: string): string => {
@@ -51,7 +53,7 @@ export const getConfig = ({
   path = location.pathname,
   lang = defaultLang,
   locale,
-  emoji = ['//unpkg.com/@waline/emojis@1.0.1/weibo'],
+  emoji = ['//unpkg.com/@waline/emojis@1.1.0/weibo'],
   meta = ['nick', 'mail', 'link'],
   requiredMeta = [],
   dark = false,
@@ -62,7 +64,9 @@ export const getConfig = ({
   texRenderer,
   copyright = true,
   login = 'enable',
-  search = getDefaultSearchOptions(),
+  search,
+  reaction,
+  recaptchaV3Key = '',
   ...more
 }: WalineProps): WalineConfig => ({
   serverURL: getServerURL(serverURL),
@@ -83,6 +87,12 @@ export const getConfig = ({
   pageSize,
   login,
   copyright,
-  search,
+  search: search || getDefaultSearchOptions(lang),
+  recaptchaV3Key,
+  reaction: Array.isArray(reaction)
+    ? reaction
+    : reaction === true
+    ? defaultReaction
+    : [],
   ...more,
 });

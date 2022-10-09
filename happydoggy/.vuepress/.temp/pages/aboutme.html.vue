@@ -1,4 +1,4 @@
-<template><div><p><img src="@source/aboutme.assets/image-20220906191939287.png" alt="image-20220906191939287"></p>
+<template><div><p><img src="@source/aboutme.assets/image-20220906191939287.png" alt="image-20220906191939287" loading="lazy"></p>
 <p>路</p>
 <p>乘着飞机，
 乘着满满的期待，
@@ -25,3 +25,5 @@
 唯有披荆斩棘，
 方可勇往直前。</p>
 </div></template>
+
+

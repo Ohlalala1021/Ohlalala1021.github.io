@@ -58,8 +58,8 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      [encodeURI("/小随笔/")]:"060721",
-      [encodeURI("/小笔记/")]:"060721",
+      "/小随笔/":"060721",
+      "/小笔记/":"060721",
     },
   },
 
@@ -91,21 +91,25 @@ export default hopeTheme({
     },
 
     mdEnhance: {
-      tex: true,
-      // enableAll: true,
-      attrs: true,
-      tabs: true,
-      // vpre: true,
-      codetabs: true,
       tasklist: true,
-      // 启用图片标记
       imageMark: true,
-      // 启用图片大小
-      imageSize: true,
-      align: true, // 自定义对齐
       footnote: true,
-      // this is the default option, so you can use it directly
+      tabs: true,
+      align: true,
+      attrs: true,
+      chart: true,
+      codetabs: true,
       container: true,
+      demo: true,
+      echarts: true,
+      flowchart: true,
+      gfm: true,
+      imageSize: true,
+      include: true,
+      katex: true,
+      lazyLoad: true,
+      mark: true,
+      mermaid: true,
       presentation: {
         plugins: ["highlight", "math", "search", "notes", "zoom"],
       },

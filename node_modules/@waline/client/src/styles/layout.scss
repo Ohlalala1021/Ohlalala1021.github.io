@@ -50,7 +50,7 @@
 }
 
 .wl-count {
-  padding: 0.375em;
+  flex: 1;
   font-weight: bold;
   font-size: 1.25em;
 }
@@ -75,4 +75,31 @@
   color: var(--waline-light-grey);
   font-size: var(--waline-info-font-size);
   text-align: right;
+}
+
+.wl-meta-head {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0.375em;
+}
+
+ul.wl-sort {
+  margin: 0;
+  list-style-type: none;
+}
+
+.wl-sort li {
+  display: inline-block;
+  color: var(--waline-info-color);
+  font-size: 0.75em;
+  cursor: pointer;
+}
+
+.wl-sort li + li {
+  margin-left: 1em;
+}
+
+.wl-sort li.active {
+  color: var(--waline-theme-color);
 }

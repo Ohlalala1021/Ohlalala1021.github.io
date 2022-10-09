@@ -8,3 +8,5 @@
 <p>用逗号隔开</p>
 <p text:菜单栏名,link:文件夹名文件名=""></p>
 </div></template>
+
+

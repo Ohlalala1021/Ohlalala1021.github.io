@@ -1,9 +1,9 @@
-import { useStyleTag } from "/Users/thomas/happydoggy/Ohlalala1021.github.io/node_modules/vuepress-plugin-components/lib/client/composables";
+import { useStyleTag } from "/Users/huangjiabao/GitHub/WebSites/Ohlalala1021.github.io/node_modules/vuepress-plugin-components/lib/client/composables/index.js";
 import { h } from "vue";
 import { defineClientConfig } from "@vuepress/client";
-import Badge from "/Users/thomas/happydoggy/Ohlalala1021.github.io/node_modules/vuepress-plugin-components/lib/client/components/Badge";
-import FontIcon from "/Users/thomas/happydoggy/Ohlalala1021.github.io/node_modules/vuepress-plugin-components/lib/client/components/FontIcon";
-import BackToTop from "/Users/thomas/happydoggy/Ohlalala1021.github.io/node_modules/vuepress-plugin-components/lib/client/components/BackToTop";
+import Badge from "/Users/huangjiabao/GitHub/WebSites/Ohlalala1021.github.io/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
+import FontIcon from "/Users/huangjiabao/GitHub/WebSites/Ohlalala1021.github.io/node_modules/vuepress-plugin-components/lib/client/components/FontIcon.js";
+import BackToTop from "/Users/huangjiabao/GitHub/WebSites/Ohlalala1021.github.io/node_modules/vuepress-plugin-components/lib/client/components/BackToTop.js";
 
 
 export default defineClientConfig({

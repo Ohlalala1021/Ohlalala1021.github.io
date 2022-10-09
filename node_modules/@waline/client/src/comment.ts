@@ -1,10 +1,5 @@
-import { useUserInfo } from './composables';
-import {
-  decodePath,
-  errorHandler,
-  fetchCommentCount,
-  getServerURL,
-} from './utils';
+import { fetchCommentCount } from './api';
+import { decodePath, errorHandler, getServerURL } from './utils';
 import type { WalineAbort } from './typings';
 
 export interface WalineCommentCountOptions {
@@ -55,8 +50,6 @@ WalineCommentCountOptions): WalineAbort => {
   // comment count
   const elements = document.querySelectorAll<HTMLElement>(selector);
 
-  const userInfo = useUserInfo();
-
   if (elements.length)
     void fetchCommentCount({
       serverURL: getServerURL(serverURL),
@@ -65,7 +58,6 @@ WalineCommentCountOptions): WalineAbort => {
       ),
       lang,
       signal: controller.signal,
-      token: userInfo.value?.token,
     })
       .then((counts) => {
         elements.forEach((element, index) => {

@@ -1,4 +1,4 @@
-<template><div><p><img src="@source/小美文/thespringsong.assets/image-20220906191744524.png" alt="image-20220906191744524"></p>
+<template><div><p><img src="@source/小美文/thespringsong.assets/image-20220906191744524.png" alt="image-20220906191744524" loading="lazy"></p>
 <p>卜算子•咏春【回文诗】</p>
 <p>｛早春篇｝
 凛凛寒风疾，
@@ -28,3 +28,5 @@
 忙蝶舞莺啼柳翠，
 溪西恋霞飞。</p>
 </div></template>
+
+

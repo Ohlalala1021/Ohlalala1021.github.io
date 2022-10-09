@@ -145,7 +145,7 @@ export interface WalineProps {
    *
    * Set Emojis
    *
-   * @default ['//unpkg.com/@waline/emojis@1.0.1/weibo']
+   * @default ['//unpkg.com/@waline/emojis@1.1.0/weibo']
    */
   emoji?: (string | WalineEmojiInfo)[] | false;
 
@@ -213,4 +213,14 @@ export interface WalineProps {
    * @default true
    */
   copyright?: boolean;
+
+  /**
+   * recaptcha v3 client key
+   */
+  recaptchaV3Key?: string;
+
+  /**
+   * reaction
+   */
+  reaction?: string[] | boolean;
 }

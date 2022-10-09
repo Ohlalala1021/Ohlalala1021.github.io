@@ -3,7 +3,6 @@ export * from './darkmode';
 export * from './date';
 export * from './emoji';
 export * from './error';
-export * from './fetch';
 export * from './getRoot';
 export * from './image';
 export * from './markdown';

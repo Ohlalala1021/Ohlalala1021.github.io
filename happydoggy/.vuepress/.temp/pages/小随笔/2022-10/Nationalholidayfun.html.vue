@@ -1,13 +1,13 @@
-<template><div><p><img src="@source/小随笔/2022-10/Nationalholidayfun.assets/image-20221006201040716.png" alt="image-20221006201040716"></p>
-<p><img src="@source/小随笔/2022-10/Nationalholidayfun.assets/image-20221006201116284.png" alt="image-20221006201116284"></p>
-<p><img src="@source/小随笔/2022-10/Nationalholidayfun.assets/image-20221006201215594.png" alt="image-20221006201215594"></p>
-<p><img src="@source/小随笔/2022-10/Nationalholidayfun.assets/image-20221006201248611.png" alt="image-20221006201248611"></p>
-<p><img src="@source/小随笔/2022-10/Nationalholidayfun.assets/image-20221006201316314.png" alt="image-20221006201316314"></p>
-<p><img src="@source/小随笔/2022-10/Nationalholidayfun.assets/image-20221006201351508.png" alt="image-20221006201351508"></p>
-<p><img src="@source/小随笔/2022-10/Nationalholidayfun.assets/image-20221006201422292.png" alt="image-20221006201422292"></p>
-<p><img src="@source/小随笔/2022-10/Nationalholidayfun.assets/image-20221006201455480.png" alt="image-20221006201455480"></p>
-<p><img src="@source/小随笔/2022-10/Nationalholidayfun.assets/image-20221006201535442.png" alt="image-20221006201535442"></p>
-<p><img src="@source/小随笔/2022-10/Nationalholidayfun.assets/image-20221006201559902.png" alt="image-20221006201559902"></p>
+<template><div><p><img src="@source/小随笔/2022-10/Nationalholidayfun.assets/image-20221006201040716.png" alt="image-20221006201040716" loading="lazy"></p>
+<p><img src="@source/小随笔/2022-10/Nationalholidayfun.assets/image-20221006201116284.png" alt="image-20221006201116284" loading="lazy"></p>
+<p><img src="@source/小随笔/2022-10/Nationalholidayfun.assets/image-20221006201215594.png" alt="image-20221006201215594" loading="lazy"></p>
+<p><img src="@source/小随笔/2022-10/Nationalholidayfun.assets/image-20221006201248611.png" alt="image-20221006201248611" loading="lazy"></p>
+<p><img src="@source/小随笔/2022-10/Nationalholidayfun.assets/image-20221006201316314.png" alt="image-20221006201316314" loading="lazy"></p>
+<p><img src="@source/小随笔/2022-10/Nationalholidayfun.assets/image-20221006201351508.png" alt="image-20221006201351508" loading="lazy"></p>
+<p><img src="@source/小随笔/2022-10/Nationalholidayfun.assets/image-20221006201422292.png" alt="image-20221006201422292" loading="lazy"></p>
+<p><img src="@source/小随笔/2022-10/Nationalholidayfun.assets/image-20221006201455480.png" alt="image-20221006201455480" loading="lazy"></p>
+<p><img src="@source/小随笔/2022-10/Nationalholidayfun.assets/image-20221006201535442.png" alt="image-20221006201535442" loading="lazy"></p>
+<p><img src="@source/小随笔/2022-10/Nationalholidayfun.assets/image-20221006201559902.png" alt="image-20221006201559902" loading="lazy"></p>
 <p>National Holiday Fun</p>
 <p>I havested much fun this National holiday, the best part that I want to share with you is the trip to Taizhou Yuhuan, which is Ruby's home town.</p>
 <p>All about the foods.</p>
@@ -20,3 +20,5 @@
 <p>There is one more fun I would like to share with you, which is making bamboo guns with lots of my friends. Ruby's dad is good at crafts like this, he taught us how to use bamboo to make pressure guns, and we made them ourselves, it was such a sense of achievement. Then we played CS with these guns and had much fun.</p>
 <p>National holiday, I loved it! Yuhuan will always in my memory, and hope we can get together again my good friends!</p>
 </div></template>
+
+

@@ -1,4 +1,4 @@
-<template><div><p><img src="@source/小笔记/f-note.assets/image-20220906191323249.png" alt="image-20220906191323249"></p>
+<template><div><p><img src="@source/小笔记/f-note.assets/image-20220906191323249.png" alt="image-20220906191323249" loading="lazy"></p>
 <p>一 、基础逻辑&amp;快捷键
 1.变量=变化的量（存东西-程序）</p>
 <p>2.运行顺序：从上往下</p>
@@ -13,8 +13,8 @@
 <p>11.command+a=全选</p>
 <p>二、网站创建&amp;修改</p>
 <p>1.访达——happydoggy——ohlalala——右键——服务——new……tab……=打开账户</p>
-<p>2.yarn run docs:dev+ http://localhost:8080/ =打开网页</p>
-<p>3.sh lala.sh=部署</p>
+<p>2.yarn run docs:dev+ <a href="http://localhost:8080/" target="_blank" rel="noopener noreferrer">http://localhost:8080/<ExternalLinkIcon/></a> =打开网页</p>
+<p><a href="http://3.sh" target="_blank" rel="noopener noreferrer">3.sh<ExternalLinkIcon/></a> lala.sh=部署</p>
 <p>4.---（在typora里）=标题</p>
 <p>5.vscode——happy……——。vue……——theme——encrypt: {</p>
 <p>​    config: {</p>
@@ -25,3 +25,5 @@
 <p>*vscode：修改网站</p>
 <p>*Typora：创作修改文章</p>
 </div></template>
+
+

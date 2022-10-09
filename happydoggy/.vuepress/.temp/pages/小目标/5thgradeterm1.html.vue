@@ -1,7 +1,7 @@
-<template><div><p><img src="@source/小目标/5thgradeterm1.assets/image-20220913212447476.png" alt="image-20220913212447476"></p>
-<p><img src="@source/小目标/5thgradeterm1.assets/image-20220902210257375.png" alt="image-20220902210257375"></p>
-<p><img src="@source/小目标/5thgradeterm1.assets/image-20220902210342133.png" alt="image-20220902210342133"></p>
-<p><img src="@source/小目标/5thgradeterm1.assets/image-20220902210407957.png" alt="image-20220902210407957"></p>
+<template><div><p><img src="@source/小目标/5thgradeterm1.assets/image-20220913212447476.png" alt="image-20220913212447476" loading="lazy"></p>
+<p><img src="@source/小目标/5thgradeterm1.assets/image-20220902210257375.png" alt="image-20220902210257375" loading="lazy"></p>
+<p><img src="@source/小目标/5thgradeterm1.assets/image-20220902210342133.png" alt="image-20220902210342133" loading="lazy"></p>
+<p><img src="@source/小目标/5thgradeterm1.assets/image-20220902210407957.png" alt="image-20220902210407957" loading="lazy"></p>
 <p><strong>新学期契约</strong></p>
 <p>学科类：</p>
 <p>不纠结、寻挑战、战必胜</p>
@@ -18,3 +18,5 @@
 <p>5、日记：每日随笔一篇，每周英文blog一篇</p>
 <p>6、电视：吃饭时不看电视，饭后15分钟可以看</p>
 </div></template>
+
+

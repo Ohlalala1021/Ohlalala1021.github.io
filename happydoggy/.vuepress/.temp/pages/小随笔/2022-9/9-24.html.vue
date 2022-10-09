@@ -6,3 +6,5 @@
 <p>Now the AMC which happened this Saturday. To be honest I was very nervous when I got the papers, my heart raced like a roller coaster. When I got over fifteen quiz, I finally came down, and I thought: oh. It’s not as difficult as I thought, I could get this! when I finally finished the test, I feel that my efforts was now wasted, and I was happy with myself and I think I will continue to do the practice every week to get more familiar with the quiz and i’m sure I will have a better score next year.</p>
 <p>You see, sports are full of fun, and these activities gave me energy and fulfillment.</p>
 </div></template>
+
+

@@ -1,4 +1,4 @@
-<template><div><p><img src="@source/小目标/summerholiday2022.assets/image-20220906211051062.png" alt="image-20220906211051062"></p>
+<template><div><p><img src="@source/小目标/summerholiday2022.assets/image-20220906211051062.png" alt="image-20220906211051062" loading="lazy"></p>
 <p>1、小楷书法
 MUST：练习态度端正，不厌其烦，笔画练习效果横平竖直，和目前硬笔笔画同样标准（四级）
 JUMP：独体字结构达到目前硬笔效果
@@ -19,3 +19,5 @@ MUST：每天练习半小时，实现盲打
 MUST：Powerpoint、Word、Xmind可熟练使用大部分功能
 JUMP：初步了解Excel</p>
 </div></template>
+
+
