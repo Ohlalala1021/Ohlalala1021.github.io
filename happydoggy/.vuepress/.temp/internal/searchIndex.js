@@ -14,13 +14,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "1-5lesson",
-    "headers": [],
-    "path": "/%E5%B0%8F%E7%AC%94%E8%AE%B0/f-note.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "论朝代兴衰与民信之关系",
     "headers": [],
     "path": "/%E5%B0%8F%E5%AF%BC%E5%9B%BE/thedynastyandtrustofthepeople.html",
@@ -42,9 +35,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "论朝代兴衰与民信之关系",
+    "title": "1-5lesson",
     "headers": [],
-    "path": "/%E5%B0%8F%E8%AE%BA%E6%96%87/thedynastyandtrustofthepeople.html",
+    "path": "/%E5%B0%8F%E7%AC%94%E8%AE%B0/f-note.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -94,6 +87,13 @@ export const searchIndex = [
     "title": "卜算子·咏春",
     "headers": [],
     "path": "/%E5%B0%8F%E7%BE%8E%E6%96%87/thespringsong.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "论朝代兴衰与民信之关系",
+    "headers": [],
+    "path": "/%E5%B0%8F%E8%AE%BA%E6%96%87/thedynastyandtrustofthepeople.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -266,20 +266,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "小笔记 分类",
-    "headers": [],
-    "path": "/category/%E5%B0%8F%E7%AC%94%E8%AE%B0/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "note 标签",
-    "headers": [],
-    "path": "/tag/note/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "小导图 分类",
     "headers": [],
     "path": "/category/%E5%B0%8F%E5%AF%BC%E5%9B%BE/",
@@ -308,16 +294,16 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "小论文 分类",
+    "title": "小笔记 分类",
     "headers": [],
-    "path": "/category/%E5%B0%8F%E8%AE%BA%E6%96%87/",
+    "path": "/category/%E5%B0%8F%E7%AC%94%E8%AE%B0/",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "论文 标签",
+    "title": "note 标签",
     "headers": [],
-    "path": "/tag/%E8%AE%BA%E6%96%87/",
+    "path": "/tag/note/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -332,6 +318,20 @@ export const searchIndex = [
     "title": "美文 标签",
     "headers": [],
     "path": "/tag/%E7%BE%8E%E6%96%87/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "小论文 分类",
+    "headers": [],
+    "path": "/category/%E5%B0%8F%E8%AE%BA%E6%96%87/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "论文 标签",
+    "headers": [],
+    "path": "/tag/%E8%AE%BA%E6%96%87/",
     "pathLocale": "/",
     "extraFields": []
   },
