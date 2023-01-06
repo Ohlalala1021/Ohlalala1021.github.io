@@ -14,6 +14,13 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "论朝代兴衰与民信之关系",
+    "headers": [],
+    "path": "/%E5%B0%8F%E5%AF%BC%E5%9B%BE/thedynastyandtrustofthepeople.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "五上学科目标",
     "headers": [],
     "path": "/%E5%B0%8F%E7%9B%AE%E6%A0%87/5thgradeterm1.html",
@@ -38,13 +45,6 @@ export const searchIndex = [
     "title": "11lesson",
     "headers": [],
     "path": "/%E5%B0%8F%E7%AC%94%E8%AE%B0/t-note.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "论朝代兴衰与民信之关系",
-    "headers": [],
-    "path": "/%E5%B0%8F%E5%AF%BC%E5%9B%BE/thedynastyandtrustofthepeople.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -77,6 +77,13 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "老师的魔法双手",
+    "headers": [],
+    "path": "/%E5%B0%8F%E7%BE%8E%E6%96%87/teacher%E2%80%98smagichands.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "那片美丽的风景",
     "headers": [],
     "path": "/%E5%B0%8F%E7%BE%8E%E6%96%87/thatbuttifulplace.html",
@@ -98,16 +105,16 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "lesson6-10",
+    "title": "论朝代兴衰与民信之关系",
     "headers": [],
-    "path": "/%E5%B0%8F%E7%AC%94%E8%AE%B0/f-note.assets/s-note.html",
+    "path": "/%E5%B0%8F%E8%AE%BA%E6%96%87/thedynastyandtrustofthepeople.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "论朝代兴衰与民信之关系",
+    "title": "lesson6-10",
     "headers": [],
-    "path": "/%E5%B0%8F%E8%AE%BA%E6%96%87/thedynastyandtrustofthepeople.html",
+    "path": "/%E5%B0%8F%E7%AC%94%E8%AE%B0/f-note.assets/s-note.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -273,6 +280,20 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "小导图 分类",
+    "headers": [],
+    "path": "/category/%E5%B0%8F%E5%AF%BC%E5%9B%BE/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "导图 标签",
+    "headers": [],
+    "path": "/tag/%E5%AF%BC%E5%9B%BE/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "小目标 分类",
     "headers": [],
     "path": "/category/%E5%B0%8F%E7%9B%AE%E6%A0%87/",
@@ -297,20 +318,6 @@ export const searchIndex = [
     "title": "note 标签",
     "headers": [],
     "path": "/tag/note/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "小导图 分类",
-    "headers": [],
-    "path": "/category/%E5%B0%8F%E5%AF%BC%E5%9B%BE/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "导图 标签",
-    "headers": [],
-    "path": "/tag/%E5%AF%BC%E5%9B%BE/",
     "pathLocale": "/",
     "extraFields": []
   },
