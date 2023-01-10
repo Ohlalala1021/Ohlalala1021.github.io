@@ -63,6 +63,20 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "大斧子的故事",
+    "headers": [],
+    "path": "/%E5%B0%8F%E7%BE%8E%E6%96%87/fat.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "二十年后的家乡",
+    "headers": [],
+    "path": "/%E5%B0%8F%E7%BE%8E%E6%96%87/fucherhometown.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "最美老和山",
     "headers": [],
     "path": "/%E5%B0%8F%E7%BE%8E%E6%96%87/hilllaoheshan.html",
@@ -73,6 +87,13 @@ export const searchIndex = [
     "title": "谈彭州山洪",
     "headers": [],
     "path": "/%E5%B0%8F%E7%BE%8E%E6%96%87/pengzhoulandslide.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "我想对你说",
+    "headers": [],
+    "path": "/%E5%B0%8F%E7%BE%8E%E6%96%87/saysomething.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -101,6 +122,13 @@ export const searchIndex = [
     "title": "卜算子·咏春",
     "headers": [],
     "path": "/%E5%B0%8F%E7%BE%8E%E6%96%87/thespringsong.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "冬景",
+    "headers": [],
+    "path": "/%E5%B0%8F%E7%BE%8E%E6%96%87/winter.html",
     "pathLocale": "/",
     "extraFields": []
   },

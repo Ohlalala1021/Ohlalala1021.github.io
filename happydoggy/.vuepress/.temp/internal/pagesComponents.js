@@ -19,10 +19,16 @@ export const pagesComponents = {
   "v-c5b98f82": defineAsyncComponent(() => import(/* webpackChunkName: "v-c5b98f82" */"/Users/thomas/happydoggy/Ohlalala1021.github.io/happydoggy/.vuepress/.temp/pages/小美文/allaboutwhitebird.html.vue")),
   // path: /%E5%B0%8F%E7%BE%8E%E6%96%87/cookiemydog.html
   "v-44a42a29": defineAsyncComponent(() => import(/* webpackChunkName: "v-44a42a29" */"/Users/thomas/happydoggy/Ohlalala1021.github.io/happydoggy/.vuepress/.temp/pages/小美文/cookiemydog.html.vue")),
+  // path: /%E5%B0%8F%E7%BE%8E%E6%96%87/fat.html
+  "v-2ef1f948": defineAsyncComponent(() => import(/* webpackChunkName: "v-2ef1f948" */"/Users/thomas/happydoggy/Ohlalala1021.github.io/happydoggy/.vuepress/.temp/pages/小美文/fat.html.vue")),
+  // path: /%E5%B0%8F%E7%BE%8E%E6%96%87/fucherhometown.html
+  "v-33b5188b": defineAsyncComponent(() => import(/* webpackChunkName: "v-33b5188b" */"/Users/thomas/happydoggy/Ohlalala1021.github.io/happydoggy/.vuepress/.temp/pages/小美文/fucherhometown.html.vue")),
   // path: /%E5%B0%8F%E7%BE%8E%E6%96%87/hilllaoheshan.html
   "v-acfca3c6": defineAsyncComponent(() => import(/* webpackChunkName: "v-acfca3c6" */"/Users/thomas/happydoggy/Ohlalala1021.github.io/happydoggy/.vuepress/.temp/pages/小美文/hilllaoheshan.html.vue")),
   // path: /%E5%B0%8F%E7%BE%8E%E6%96%87/pengzhoulandslide.html
   "v-1939cf1e": defineAsyncComponent(() => import(/* webpackChunkName: "v-1939cf1e" */"/Users/thomas/happydoggy/Ohlalala1021.github.io/happydoggy/.vuepress/.temp/pages/小美文/pengzhoulandslide.html.vue")),
+  // path: /%E5%B0%8F%E7%BE%8E%E6%96%87/saysomething.html
+  "v-9f98a264": defineAsyncComponent(() => import(/* webpackChunkName: "v-9f98a264" */"/Users/thomas/happydoggy/Ohlalala1021.github.io/happydoggy/.vuepress/.temp/pages/小美文/saysomething.html.vue")),
   // path: /%E5%B0%8F%E7%BE%8E%E6%96%87/teacher%E2%80%98smagichands.html
   "v-6dd16562": defineAsyncComponent(() => import(/* webpackChunkName: "v-6dd16562" */"/Users/thomas/happydoggy/Ohlalala1021.github.io/happydoggy/.vuepress/.temp/pages/小美文/teacher‘smagichands.html.vue")),
   // path: /%E5%B0%8F%E7%BE%8E%E6%96%87/thatbuttifulplace.html
@@ -31,6 +37,8 @@ export const pagesComponents = {
   "v-71c3455a": defineAsyncComponent(() => import(/* webpackChunkName: "v-71c3455a" */"/Users/thomas/happydoggy/Ohlalala1021.github.io/happydoggy/.vuepress/.temp/pages/小美文/thatmomentivegrown.html.vue")),
   // path: /%E5%B0%8F%E7%BE%8E%E6%96%87/thespringsong.html
   "v-2aef503c": defineAsyncComponent(() => import(/* webpackChunkName: "v-2aef503c" */"/Users/thomas/happydoggy/Ohlalala1021.github.io/happydoggy/.vuepress/.temp/pages/小美文/thespringsong.html.vue")),
+  // path: /%E5%B0%8F%E7%BE%8E%E6%96%87/winter.html
+  "v-457ec5b8": defineAsyncComponent(() => import(/* webpackChunkName: "v-457ec5b8" */"/Users/thomas/happydoggy/Ohlalala1021.github.io/happydoggy/.vuepress/.temp/pages/小美文/winter.html.vue")),
   // path: /%E5%B0%8F%E8%AE%BA%E6%96%87/thedynastyandtrustofthepeople.html
   "v-084b679e": defineAsyncComponent(() => import(/* webpackChunkName: "v-084b679e" */"/Users/thomas/happydoggy/Ohlalala1021.github.io/happydoggy/.vuepress/.temp/pages/小论文/thedynastyandtrustofthepeople.html.vue")),
   // path: /%E5%B0%8F%E7%AC%94%E8%AE%B0/f-note.assets/s-note.html
@@ -105,12 +113,4 @@ export const pagesComponents = {
   "v-1973b53e": defineAsyncComponent(() => import(/* webpackChunkName: "v-1973b53e" */"/Users/thomas/happydoggy/Ohlalala1021.github.io/happydoggy/.vuepress/.temp/pages/category/小随笔/index.html.vue")),
   // path: /tag/%E9%9A%8F%E7%AC%94/
   "v-eb686fe0": defineAsyncComponent(() => import(/* webpackChunkName: "v-eb686fe0" */"/Users/thomas/happydoggy/Ohlalala1021.github.io/happydoggy/.vuepress/.temp/pages/tag/随笔/index.html.vue")),
-  // path: /%E5%B0%8F%E7%BE%8E%E6%96%87/fucherhometown.html
-  "v-33b5188b": defineAsyncComponent(() => import(/* webpackChunkName: "v-33b5188b" */"/Users/thomas/happydoggy/Ohlalala1021.github.io/happydoggy/.vuepress/.temp/pages/小美文/fucherhometown.html.vue")),
-  // path: /%E5%B0%8F%E7%BE%8E%E6%96%87/saysomething.html
-  "v-9f98a264": defineAsyncComponent(() => import(/* webpackChunkName: "v-9f98a264" */"/Users/thomas/happydoggy/Ohlalala1021.github.io/happydoggy/.vuepress/.temp/pages/小美文/saysomething.html.vue")),
-  // path: /%E5%B0%8F%E7%BE%8E%E6%96%87/winter.html
-  "v-457ec5b8": defineAsyncComponent(() => import(/* webpackChunkName: "v-457ec5b8" */"/Users/thomas/happydoggy/Ohlalala1021.github.io/happydoggy/.vuepress/.temp/pages/小美文/winter.html.vue")),
-  // path: /%E5%B0%8F%E7%BE%8E%E6%96%87/fat.html
-  "v-2ef1f948": defineAsyncComponent(() => import(/* webpackChunkName: "v-2ef1f948" */"/Users/thomas/happydoggy/Ohlalala1021.github.io/happydoggy/.vuepress/.temp/pages/小美文/fat.html.vue")),
 }
