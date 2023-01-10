@@ -22,6 +22,7 @@ export default hopeTheme({
 
   // navbar
   navbar: navbar,
+  editLink: false,
 
   // sidebar
   sidebar: sidebar,
@@ -30,7 +31,7 @@ export default hopeTheme({
 
   displayFooter: true,
 
-  pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
+  pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime", "PageView", "Word"],
   blog: {
     name: "Mr.爱宠人",
     description: "hi,大家好！我是个狗狗爱好者，平时喜欢看书和看电影，也喜欢羽毛球；最讨厌有人在公共场合大声“狗叫”。",
@@ -55,7 +56,7 @@ export default hopeTheme({
       Zhihu: "https://example.com",
     },
   },
-
+  
   encrypt: {
     config: {
       "/小随笔/":"060721",
@@ -64,22 +65,22 @@ export default hopeTheme({
   },
 
   plugins: {
-    blog: {
-      autoExcerpt: true,
-    },
+    
+    blog: true,
 
     // 如果你不需要评论，可以直接删除 comment 配置，
     // 以下配置仅供体验，如果你需要评论，请自行配置并使用自己的环境，详见文档。
     // 为了避免打扰主题开发者以及消耗他的资源，请不要在你的正式环境中直接使用下列配置!!!!!
     comment: {
       reaction: true,
+      pageview: true,
       provider: "Waline",
       serverURL: "https://comments.thomasxiao.com/",
     },
 
     mdEnhance: {
       tasklist: true,
-      imageMark: true,
+      imgMark: true,
       footnote: true,
       tabs: true,
       align: true,
@@ -87,14 +88,14 @@ export default hopeTheme({
       chart: true,
       codetabs: true,
       container: true,
-      demo: true,
-      echarts: true,
+      // demo: true,
+      // echarts: true,
       flowchart: true,
       gfm: true,
-      imageSize: true,
+      imgSize: true,
       include: true,
       katex: true,
-      lazyLoad: true,
+      imgLazyload: true,
       mark: true,
       mermaid: true,
       presentation: {

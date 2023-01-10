@@ -1,6 +1,6 @@
 ---
 home: true
-layout: Blog
+layout: BlogHome
 icon: home
 title: lalalala
 heroImage: https://img-blog.csdnimg.cn/e1ef64165daf406988f460490abf9b90.png

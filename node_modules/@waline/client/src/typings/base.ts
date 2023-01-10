@@ -1,3 +1,10 @@
+export type WalineCommentSorting = 'latest' | 'oldest' | 'hottest';
+
+export type WalineEmojiPresets =
+  | `//${string}`
+  | `http://${string}`
+  | `https://${string}`;
+
 export interface WalineEmojiInfo {
   /**
    * 选项卡上的 Emoji 名称
@@ -38,6 +45,8 @@ export interface WalineEmojiInfo {
 }
 
 export type WalineEmojiMaps = Record<string, string>;
+
+export type WalineLoginStatus = 'enable' | 'disable' | 'force';
 
 export interface WalineSearchImageData extends Record<string, unknown> {
   /**
@@ -102,7 +111,7 @@ export interface WalineSearchOptions {
    *
    * @default (word) => search(word)
    */
-  more?: (word: string, currectCount: number) => Promise<WalineSearchResult>;
+  more?: (word: string, currentCount: number) => Promise<WalineSearchResult>;
 }
 
 export type WalineMeta = 'nick' | 'mail' | 'link';

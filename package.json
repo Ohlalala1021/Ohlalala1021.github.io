@@ -1,7 +1,7 @@
 {
   "name": "happydoggy",
   "version": "2.0.0",
-  "description": "编程1v1,VX:Jiabcdefh,AI悦创编程一对一学员,笔记模版网页",
+  "description": "bornforthis.cn,编程1v1,VX:Jiabcdefh,AI悦创编程一对一学员,笔记模版网页",
   "license": "MIT",
   "scripts": {
     "docs:build": "vuepress build happydoggy",
@@ -9,10 +9,10 @@
     "docs:dev": "vuepress dev happydoggy"
   },
   "devDependencies": {
-    "@vuepress/client": "2.0.0-beta.51",
-    "@vuepress/plugin-search": "2.0.0-beta.51",
+    "@vuepress/client": "2.0.0-beta.60",
+    "@vuepress/plugin-search": "2.0.0-beta.60",
     "vue": "^3.2.36",
-    "vuepress": "2.0.0-beta.51",
-    "vuepress-theme-hope": "2.0.0-beta.108"
+    "vuepress": "2.0.0-beta.60",
+    "vuepress-theme-hope": "2.0.0-beta.154"
   }
 }

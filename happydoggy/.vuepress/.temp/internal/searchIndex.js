@@ -21,6 +21,20 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "1-5lesson",
+    "headers": [],
+    "path": "/%E5%B0%8F%E7%AC%94%E8%AE%B0/f-note.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "11lesson",
+    "headers": [],
+    "path": "/%E5%B0%8F%E7%AC%94%E8%AE%B0/t-note.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "五上学科目标",
     "headers": [],
     "path": "/%E5%B0%8F%E7%9B%AE%E6%A0%87/5thgradeterm1.html",
@@ -35,16 +49,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "1-5lesson",
+    "title": "lesson6-10",
     "headers": [],
-    "path": "/%E5%B0%8F%E7%AC%94%E8%AE%B0/f-note.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "11lesson",
-    "headers": [],
-    "path": "/%E5%B0%8F%E7%AC%94%E8%AE%B0/t-note.html",
+    "path": "/%E5%B0%8F%E7%AC%94%E8%AE%B0/f-note.assets/s-note.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -136,13 +143,6 @@ export const searchIndex = [
     "title": "论朝代兴衰与民信之关系",
     "headers": [],
     "path": "/%E5%B0%8F%E8%AE%BA%E6%96%87/thedynastyandtrustofthepeople.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "lesson6-10",
-    "headers": [],
-    "path": "/%E5%B0%8F%E7%AC%94%E8%AE%B0/f-note.assets/s-note.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -259,6 +259,76 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "小导图",
+    "headers": [],
+    "path": "/%E5%B0%8F%E5%AF%BC%E5%9B%BE/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "小笔记",
+    "headers": [],
+    "path": "/%E5%B0%8F%E7%AC%94%E8%AE%B0/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "小目标",
+    "headers": [],
+    "path": "/%E5%B0%8F%E7%9B%AE%E6%A0%87/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "F Note.assets",
+    "headers": [],
+    "path": "/%E5%B0%8F%E7%AC%94%E8%AE%B0/f-note.assets/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "小美文",
+    "headers": [],
+    "path": "/%E5%B0%8F%E7%BE%8E%E6%96%87/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "小论文",
+    "headers": [],
+    "path": "/%E5%B0%8F%E8%AE%BA%E6%96%87/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "2022 10",
+    "headers": [],
+    "path": "/%E5%B0%8F%E9%9A%8F%E7%AC%94/2022-10/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "小随笔",
+    "headers": [],
+    "path": "/%E5%B0%8F%E9%9A%8F%E7%AC%94/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "2022 8",
+    "headers": [],
+    "path": "/%E5%B0%8F%E9%9A%8F%E7%AC%94/2022-8/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "2022 9",
+    "headers": [],
+    "path": "/%E5%B0%8F%E9%9A%8F%E7%AC%94/2022-9/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "分类",
     "headers": [],
     "path": "/category/",
@@ -276,20 +346,6 @@ export const searchIndex = [
     "title": "文章",
     "headers": [],
     "path": "/article/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "加密",
-    "headers": [],
-    "path": "/encrypted/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "幻灯片",
-    "headers": [],
-    "path": "/slide/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -322,20 +378,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "小目标 分类",
-    "headers": [],
-    "path": "/category/%E5%B0%8F%E7%9B%AE%E6%A0%87/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "目标 标签",
-    "headers": [],
-    "path": "/tag/%E7%9B%AE%E6%A0%87/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "小笔记 分类",
     "headers": [],
     "path": "/category/%E5%B0%8F%E7%AC%94%E8%AE%B0/",
@@ -346,6 +388,20 @@ export const searchIndex = [
     "title": "note 标签",
     "headers": [],
     "path": "/tag/note/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "小目标 分类",
+    "headers": [],
+    "path": "/category/%E5%B0%8F%E7%9B%AE%E6%A0%87/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "目标 标签",
+    "headers": [],
+    "path": "/tag/%E7%9B%AE%E6%A0%87/",
     "pathLocale": "/",
     "extraFields": []
   },

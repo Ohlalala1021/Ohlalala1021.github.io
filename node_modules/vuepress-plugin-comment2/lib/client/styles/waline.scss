@@ -1,7 +1,7 @@
 @use "vuepress-shared/styles/wrapper";
 
-.page .waline-wrapper {
-  --waline-accent-color: var(--c-brand, #3eaf7c);
+.waline-wrapper {
+  --waline-theme-color: var(--c-brand, #3eaf7c);
   --waline-text-color: var(--c-text, #2c3e50);
   --waline-active-color: var(--c-brand-light, #4abf8a);
   --waline-border: 1px solid var(--dark-grey);
@@ -9,4 +9,8 @@
   --waline-bgcolor-light: var(--c-bg-light, #f3f4f5);
 
   @include wrapper.wrapper;
+
+  @media print {
+    display: none !important;
+  }
 }
