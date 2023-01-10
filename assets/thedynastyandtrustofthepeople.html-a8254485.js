@@ -1,0 +1,1 @@
+import{ac as t,G as s,H as a,E as e}from"./framework-bfa69bce.js";const o="/assets/image-20220902204930815-0f1e7338.png",n={},c=e("p",null,[e("img",{src:o,alt:"image-20220902204930815",loading:"lazy"})],-1),_=[c];function l(r,d){return s(),a("div",null,_)}const p=t(n,[["render",l],["__file","thedynastyandtrustofthepeople.html.vue"]]);export{p as default};

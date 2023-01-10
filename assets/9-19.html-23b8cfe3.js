@@ -1,0 +1,1 @@
+import{ac as t,G as _,H as c,E as e}from"./framework-bfa69bce.js";const o={},s=e("p",null,"9.19",-1),n=e("p",null,"今日其怪乎，不与我言。若知何若，必安其于心，继而与吾畅谈。今日不可，则待明日再与之言矣。",-1),l=[s,n];function a(r,d){return _(),c("div",null,l)}const f=t(o,[["render",a],["__file","9-19.html.vue"]]);export{f as default};
